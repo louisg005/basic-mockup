@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-	width: 1170px;
+	width: 100%;
 	background-color: #33CCFF;
 	padding: 20em 100em;
 	margin: 10em;
