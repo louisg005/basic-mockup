@@ -14,8 +14,8 @@ body {
 .header {
 	width: 100%;
 	background-color: #33CCFF;
-	padding: 20em 100em;
-	margin: 10em;
+	padding: .5em .5em;
+	margin: .5em;
 }
 
 .container2 {
