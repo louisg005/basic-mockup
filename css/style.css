@@ -14,11 +14,8 @@ body {
 .header {
 	width: 1170px;
 	background-color: #33CCFF;
-	padding-left: 100px;
-	padding-right: 100px;
-	margin: 10px;
-	padding-bottom: 20px;
-	padding-top: 20px;
+	padding: 20em 100em;
+	margin: 10em;
 }
 
 .container2 {
