@@ -18,9 +18,10 @@ body {
 	margin: .5em;
 }
 
-.container2 {
+.container {
 	margin: 0 auto;
 	width: 1170px;
+	background-color: #33CCFF;
 }
 .clear {
 	clear: both;
