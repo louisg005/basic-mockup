@@ -23,6 +23,13 @@ body {
 	width: 1170px;
 	background-color: #33CCFF;
 }
+
+.container2 {
+	width: 100%;
+	background-color: black;
+	color: grey;
+}
+
 .clear {
 	clear: both;
 	background-color: #33CCFF;
