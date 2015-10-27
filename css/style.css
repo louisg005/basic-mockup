@@ -17,6 +17,10 @@ body {
 	background-color: #33CCFF;
 }
 
+.container2 {
+	margin: 0 auto;
+	width: 1170px;
+}
 .clear {
 	clear: both;
 }
